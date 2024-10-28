@@ -221,7 +221,7 @@ By supporting one another and providing a platform that allows exploring new too
     A lot of the challenges of working in distributed teams comes from coordination. This is becuase of developers work in different time zone, this makes it more difficult to collaborate since other coworkers might not be working at that given time. In the same way scheduling meeting can be difficult becuase of the time difference a meeting in the morning can be in the middle of the night for some of the developers. 
     
 3.  **What practices can help a remote collaboration culture stay healthy?**  
-    _Answer:_
+    The main practice for making remote collaboration culture better is to encourage non-work-related channels on slack or other real time messageing services. Having cameras on when doing video calls also help the collaboration culture. Meeting face-to-face is the best way to making the collaboration culture healthier or stay as healthy. 
     
 4.  **What considerations does your group have on remote work during the exam project period?**  
     _Answer:_
