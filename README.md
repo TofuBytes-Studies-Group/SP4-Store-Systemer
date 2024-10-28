@@ -123,7 +123,7 @@
 **Member 3:**
 
 1.  **Explain why The Spotify Model is much less formal than SAFe.**  
-    _Answer:_
+    
     Seeing as the spotify model is based on agile principles much like SAFe, the less formal approach is could be due to the emphasize on team autonomy, flexibility and lightweight coordination over tigid structures and standardized processes. Prioritizing empowering squads, the small cross-functional teams to own and make their own decisions about their products independently, reduces the need for centralized control while safe prescribes specific roles and events to coordinate work across an organization. but also providing high-level structure for team alignments like the squads, tribes, m chapters and open guilds but leaving specifics up to individual teams. whereas SAFe has a more predefined approach to roles and ceremonies.
     
     Also by encouraging communication through the informal communities like the guilds and chapters makes it less formal than SAFe's scheduled events and reporting lines.
@@ -133,7 +133,7 @@
     So by relying on flexible, decentralized teams and lightweight informal coordination and communication is what makes spotify that much less formal than safes detailed and rigid structures and processes.
     
 2.  **How is it a way of working with fewer events and more focus on team and team coordination?**  
-    _Answer:_
+    
     Alignment enables autonomy, loosely coupled, tightly aligned squads because of the high alignment and high autonomy it enables the teams to focus on team coordination to solve their tasks also called aligned autonomy.  So the main focus of the Spotify Model is to focus on creating these autonomous, cross-functional teams referred to as squads, that are empowered to own specific areas of a product or platform. These squads reduces the dependencies and need for constant cross-team coordination by giving each squad end-to-end ownership of their domains, so they don't rely on other teams to work more independently, which in turn decreases the number of events or meetings needed for coordination.
     
     
@@ -143,13 +143,16 @@
     Using stuff like tribes, chapters and guilds for coordination also allows for a more organic alignment with specific business areas.
 
 
-	 Larger groups called "tribes" consists of related squads, chapters and guilds cross-cut these tribes to foster specialized knowledge sharing so, so alignment on tools, processes, and practices happens asynchronously or through occasional gatherings rather than frequent, centralized meetings. all in all when speaking of tribes, chapters and guilds its about community over structure. **(jeg inkluderer screenshot / model af tribes, guilds og squads da det er svært at visualizere uden billede)**
+	 Larger groups called "tribes" consists of related squads, chapters and guilds cross-cut these tribes to foster specialized knowledge sharing so, so alignment on tools, processes, and practices happens asynchronously or through occasional gatherings rather than frequent, centralized meetings. all in all when speaking of tribes, chapters and guilds its about community over structure.
+
+	![image](https://github.com/user-attachments/assets/351554bd-a88d-4143-8ea9-71af17586ca1)
+
     
     
     With all this said, the spotify model doesn't seem to eliminate meetings altogether. But focuses on having strategic, periodic gatherings rather than constant check-ins (like standups) Agile ceremonies and quarterly planning help align on broader objectives without micromanaging day-to-day tasks.
     
-3.  **Both Scrum and Kanban can be used with the Spotify model. What are the main differences between Scrum and Kanban?**  
-    _Answer:_
+4.  **Both Scrum and Kanban can be used with the Spotify model. What are the main differences between Scrum and Kanban?**  
+    
     **Scrum** operates in sprints, running over fixed lengths, usually over 1-4 weeks. Each sprint begins with some sort of planning, followed by development and ends with a review and retrospective.
     
     Whereas **Kanban** has a continuous flow model with no fixed timeframes allowing work items to move through stages as capacity allows without constraint of a sprint.
@@ -157,8 +160,8 @@
 
 	Kanban is a project management framework that relies on visual tasks to manage workflows, while scrum is a project management framework that helps teams structure and manage their work through a set of values, principles, and practices.
     
-4.  **What is a Guild, and how could you use Guilds in the exam project development process?**  
-    _Answer:_
+5.  **What is a Guild, and how could you use Guilds in the exam project development process?**  
+    
     Guild is a lightweight community of interest where people across the whole company gather and share knowledge in a specific area, guilds typically have a mailing list biannual on conferences and other informal communication methods meant to facilitate knowledge sharing, align practices and foster innovation in specific areas. Unlike formal team structures, guilds are open. and anyone can leave and join any guild at any time. Voluntary groups that span different squads and tribes, allowing members to connect discuss best practices and collaborate on common challenges without disrupting their primary work.
 
 
