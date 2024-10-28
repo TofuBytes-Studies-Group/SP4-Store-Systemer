@@ -16,19 +16,46 @@
 **Member 1:**
 
 1.  **What is meant by “Essential SAFe”?**  
-    _Answer:_
+    Essential SAFe is the simplest configuration of the Scaled Agile Framework (SAFe), containing only the minimum elements needed to deliver solutions. It’s designed for organizations that want to adopt Agile practices at a program level without taking on the full complexity of larger SAFe configurations. Essential SAFe focuses on the team and program levels, providing key elements like Agile Release Trains (ARTs) and basic Agile teams. This makes it an ideal starting point for companies new to SAFe or those not needing advanced portfolio management.
+
     
 2.  **What is an ART – why is it important?**  
-    _Answer:_
+    An Agile Release Train (ART) is a team of Agile teams that work together to plan, commit, and execute on a shared mission. ARTs are self-managing and self-organizing, which allows them to deliver value more efficiently and predictably.
+Roles in ART:
+	1. Product Management: Defines and supports the development of products that are desirable, feasible, viable, and sustainable over the product’s lifecycle.
+	2. System Architect: Designs the overall system architecture, ensuring it meets both functional and nonfunctional requirements (NFRs).
+	3. Release Train Engineer (RTE): A servant leader who coordinates ART events and helps optimize the flow of value across the train.
+Business Owners: Key stakeholders responsible for the business and technical fitness of solutions developed by the ART.
+
     
 3.  **There are 7 core competencies in SAFe – what are they?**  
-    _Answer:_
+    Each of these competencies represents an area that helps the organization achieve business agility:
+	1. Lean-Agile Leadership: Leaders model Agile principles, creating an environment of trust and empowerment to encourage innovation.
+	2. Team and Technical Agility: Agile teams practice technical excellence, focusing on quality and rapid product delivery.
+	3. Agile Product Delivery: Emphasizes delivering products in small, frequent increments to meet customer needs.
+	4. Enterprise Solution Delivery: Supports building and deploying complex, large-scale solutions.
+	5. Lean Portfolio Management: Aligns work with strategic goals and ensures that all investments provide value.
+	6. Continuous Learning Culture: Encourages teams to continuously improve and innovate.
+	7. Organizational Agility: Helps the organization adapt quickly to changes in the market by aligning its strategy, structure, and processes.
+Together, these competencies help organizations improve speed, quality, and overall value delivery.
+
     
-4.  **What are 3 benefits of SAFe?**  
-    _Answer:_
+4.  **What are 3 benefits of SAFe?**
+
+    ***Continuous integration:***
+
+SAFe promotes continuous development practices, like continuous integration and DevOps, which help teams minimize delays and handoffs. This allows teams to test and integrate changes quickly, leading to faster and more reliable releases.
+
+***Frequent Incremental Delivery:***
+SAFe’s Agile Product Delivery competency focuses on delivering value in small, frequent increments. With regular System Demos at the end of each iteration, stakeholders can view progress and give immediate feedback, keeping development aligned with current needs.
+
+***Benefits of ART:***
+A major advantage of an Agile Release Train (ART) is that it brings multiple teams together toward a shared goal. By aligning on a common cadence and vision, ARTs help manage dependencies and avoid bottlenecks, making delivery more predictable and reliable.
+
     
 5.  **What could be the downsides of SAFe?**  
-    _Answer:_
+    One potential downside of SAFe is its complexity and overhead. SAFe introduces various roles, events, and structures, which can be overwhelming and time-consuming for smaller teams or those just beginning with Agile. This complexity may create “Agile bureaucracy”, where excessive planning and coordination start to reduce actual value delivery. Additionally, if SAFe is not adapted to the organization’s needs, it can feel too rigid, reducing team ownership and agility.
+
     
 
 **Member 2:**
