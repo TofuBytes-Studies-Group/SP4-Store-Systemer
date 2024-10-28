@@ -215,10 +215,10 @@ By supporting one another and providing a platform that allows exploring new too
 **Member 4:**
 
 1.  **What are the main benefits of working in distributed teams?**  
-    _Answer:_
+    One of the main benefits of distributed teams is that you no long need to pay rent or electricity since the workers will work from home. An other benefit is being able to hire developers from all over the world thereby having access to developers that are more qualified for the given project. One study says office workers working from home has increased productivty. Since developers are a form of office worker it should translate to them as well. Distributed teams also allows more flexiblity allowing people to work when they want to as long as the work gets done in time.
     
 2.  **What are the main challenges of working in distributed teams?**  
-    _Answer:_
+    A lot of the challenges of working in distributed teams comes from coordination. This is becuase of developers work in different time zone, this makes it more difficult to collaborate since 
     
 3.  **What practices can help a remote collaboration culture stay healthy?**  
     _Answer:_
