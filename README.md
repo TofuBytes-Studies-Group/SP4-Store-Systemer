@@ -105,15 +105,16 @@
 	The PO will ensure that the right thing is build the right way by collaborating closely with the ART team and also the Product Manager.
 	
 11. **What is the SAFe DevOps health assessment and how might it be useful?**  
-	SAFe mentions that it is essential to measure the DevOps' performance and track incremental progress. To do so ART teams can use the **DevOps Health Radar**, which assesses the maturity of the Continuous Delivery Pipeline's four aspects and 16 activities. 
+	SAFe mentions that it is essential to measure the DevOps' performance and track incremental progress. To do so ART teams can use the **DevOps Health Radar**, which assesses the maturity of the Continuous Delivery Pipeline's four aspects and 16 activities.
+	![image](https://github.com/user-attachments/assets/8fd7450e-ef09-40d4-a45e-6cd65926b429)
 
-![image](https://github.com/user-attachments/assets/8fd7450e-ef09-40d4-a45e-6cd65926b429)
 
-When using the DevOps Health Rader, the ART team goes through a list of the 16 activities, - four activities for each aspect - reviews a statement that describe the team's abilities specific to the activity, and then they rate themselves as a team on a scale of 1 - 10. As an example, this is the statement to rate for the first aspect; *Continuous Exploration* and its first activity; *Hypothesize*:
+	When using the DevOps Health Rader, the ART team goes through a list of the 16 activities, - four activities for each aspect - reviews a statement that describe the team's abilities specific to the activity, and then they rate themselves as a team on a scale of 1 - 10. As an example, this is the statement to rate for the first aspect; *Continuous Exploration* and its first activity; *Hypothesize*:
+
 	>Measurement involves collecting factual information about the value of a deployed Feature and evaluating it against the original hypothesis statement.
 	Rate your team's ability to collect objective information about the actual value realized by Features, so that it can inform strategic financial decisions.
 	
-And then there's a provided description for every other rating, e.g. 1 and 2 have a description in common, and 3-4, and so on.
+	And then there's a provided description for every other rating, e.g. 1 and 2 have a description in common, and 3-4, and so on.
     
 ----------
 
